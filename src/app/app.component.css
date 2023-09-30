@@ -1,0 +1,89 @@
+
+  
+  .form-model {
+    background-color: rgba(255, 255, 255, 0.726);
+    padding: 40px;
+    border-radius: 30px;
+
+    border: 2px solid #c2da0e;
+  
+  }
+  .but {
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+
+ 
+  .conta {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 100%;
+  
+  
+  }
+  
+  .vla {
+    margin-bottom: 15px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    min-height: 100%;
+    min-width: 100%;
+    border-radius: 15px;
+  
+  }
+
+  .img{
+    
+    background-image: url('https://www.gigacalculator.com/img/calculators/strong-random-password.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+  }
+  
+  .btn {
+    min-width: 100%;
+  
+  
+  }
+  label{
+    font-weight: bold;
+  }
+
+  .input-like {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .input-like span {
+    flex: 1;
+    padding: 0 8px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  
+  .input-like .but {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .input-like .but:hover {
+    background-color: #0056b3;
+  }
+  
